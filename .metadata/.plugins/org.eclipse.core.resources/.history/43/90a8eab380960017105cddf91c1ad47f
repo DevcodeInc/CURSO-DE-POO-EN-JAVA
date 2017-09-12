@@ -1,0 +1,18 @@
+package log.test.main;
+
+import java.util.ArrayList;
+
+public class Student{
+   
+	static float PI=3.14f;
+	
+	public static void main(String[] args) {
+		System.out.println(PI);
+		calcularArear();
+	}
+	
+	static void calcularArear(){
+		System.out.println("calculando area");
+	}
+   
+}

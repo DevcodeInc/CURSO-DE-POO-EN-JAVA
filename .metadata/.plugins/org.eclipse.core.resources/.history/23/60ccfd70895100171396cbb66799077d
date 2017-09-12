@@ -1,0 +1,16 @@
+import java.util.Date;
+
+package com.devcode.modulos.sinherencia;
+
+
+
+public class Arbitro {
+
+	int id;
+	String Nombre;
+	String Apellidos;
+	Date fechaNac;
+	String numeroLicencia;
+
+}
+

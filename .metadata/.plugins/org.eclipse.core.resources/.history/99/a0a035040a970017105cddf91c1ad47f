@@ -1,0 +1,26 @@
+package log.test.main;
+
+import java.util.ArrayList;
+
+public class Student{
+   
+	static float PI=3.14f;
+	
+	private String nombre;
+	public String apellido;
+	
+	public static void main(String[] args) {
+		System.out.println(PI);
+		calcularArear();
+		calcularAreaCirculo();
+	}
+	
+	static void calcularArear(){
+		System.out.println("calculando area");
+	}
+	
+	 void calcularAreaCirculo(){
+		System.out.println("calculando area");
+	}
+   
+}

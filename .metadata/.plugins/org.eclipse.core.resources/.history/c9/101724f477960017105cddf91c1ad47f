@@ -1,0 +1,6 @@
+package log.test.main;
+
+public class Ejemplo {
+	static int PI=3;
+	
+}

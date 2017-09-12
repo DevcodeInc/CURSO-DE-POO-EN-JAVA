@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.devcode.objetos.Ejemplo&apos; to &apos;Auto&apos;&#x0A;- Original project: &apos;Objetos&apos;&#x0A;- Original element: &apos;com.devcode.objetos.Ejemplo&apos;&#x0A;- Renamed element: &apos;com.devcode.objetos.Auto&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Ejemplo&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.devcode.objetos{Ejemplo.java[Ejemplo" matchStrategy="1" name="Auto" qualified="false" references="true" similarDeclarations="false" stamp="1499588723146" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,28 @@
+package modulo4.herencia;
+
+import java.util.Calendar;
+import java.util.Date;
+import java.util.GregorianCalendar;
+
+public class Ejemplo {
+
+	public static void main(String[] args) {
+		
+		
+		
+		for (int i = 0; i < 100000; i++) {
+			Calendar calendario = new GregorianCalendar();
+			int hora, minutos, segundos,mili;
+			hora =calendario.get(Calendar.HOUR_OF_DAY);
+			minutos = calendario.get(Calendar.MINUTE);
+			segundos = calendario.get(Calendar.SECOND);
+			mili=calendario.get(Calendar.MILLISECOND);
+			
+			System.out.println(hora + ":" + minutos + ":" + segundos+"-"+mili);
+		}
+		
+		
+		
+	}
+	
+}

@@ -1,0 +1,12 @@
+package java.basics;
+
+import log.test.main.EjemploUtil;
+
+public class Test {
+	
+	public static void main(String[] args) {
+		EjemploUtil ejemploUtil = new EjemploUtil();
+		System.out.println(ejemploUtil.PI);
+	}
+}
+

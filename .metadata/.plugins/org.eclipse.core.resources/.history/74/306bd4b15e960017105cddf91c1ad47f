@@ -1,0 +1,7 @@
+package modulo4.polimorfismo;
+
+public class Medico implements EsProfesional{
+	public void mostrarProfesion() {
+		System.out.println("Mejorar la salud en las personas");
+	};
+}

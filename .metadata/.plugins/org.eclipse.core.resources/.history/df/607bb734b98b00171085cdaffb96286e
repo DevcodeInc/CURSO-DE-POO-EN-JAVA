@@ -1,0 +1,10 @@
+package modulo4.interfaces;
+
+public interface Figura {
+
+	public static final float PI=3.1416f;
+	
+	void calcularArea();
+	
+}
+

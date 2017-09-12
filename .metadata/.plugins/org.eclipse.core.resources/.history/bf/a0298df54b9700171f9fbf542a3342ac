@@ -1,0 +1,12 @@
+package log.test.main;
+
+public class TestInterfaces {
+
+}
+
+interface iTest{
+	void calcularFinal();
+}
+interface iTest2{
+	void calcularFinal();
+}

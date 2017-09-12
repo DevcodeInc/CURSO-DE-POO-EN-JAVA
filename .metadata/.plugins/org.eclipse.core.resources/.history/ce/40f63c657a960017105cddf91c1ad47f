@@ -1,0 +1,12 @@
+package log.test.main;
+
+public class EjemploUtil {
+
+	public static final float PI=3.1415f;
+	public static final float gravedad= 9.8f;
+	
+	public static void main(String[] args) {
+		
+	}
+	
+}

@@ -1,0 +1,8 @@
+package log.test.main;
+
+public class EjemploUtil {
+
+	public float PI=3.1415f;
+	public float gravedad= 9.8f;
+	
+}
